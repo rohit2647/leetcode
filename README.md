@@ -9,4 +9,16 @@ question done on leetcode
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rohit2647/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rohit2647/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/rohit2647/leetcode/tree/master/2652-sum-multiples) |
+## Array
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
