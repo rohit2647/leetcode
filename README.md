@@ -13,6 +13,7 @@ question done on leetcode
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/rohit2647/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Two Pointers
 |  |
 | ------- |
