@@ -6,6 +6,7 @@ question done on leetcode
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rohit2647/leetcode/tree/master/0002-add-two-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rohit2647/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/rohit2647/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rohit2647/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -38,4 +39,12 @@ question done on leetcode
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/rohit2647/leetcode/tree/master/1486-xor-operation-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rohit2647/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rohit2647/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
