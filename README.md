@@ -15,6 +15,7 @@ question done on leetcode
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohit2647/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1550-three-consecutive-odds](https://github.com/rohit2647/leetcode/tree/master/1550-three-consecutive-odds) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rohit2647/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rohit2647/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Two Pointers
