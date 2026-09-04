@@ -17,6 +17,7 @@ question done on leetcode
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/rohit2647/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohit2647/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/rohit2647/leetcode/tree/master/1550-three-consecutive-odds) |
@@ -49,4 +50,8 @@ question done on leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohit2647/leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/rohit2647/leetcode/tree/master/0203-remove-linked-list-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/rohit2647/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
