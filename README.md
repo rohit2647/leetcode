@@ -17,6 +17,7 @@ question done on leetcode
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/rohit2647/leetcode/tree/master/0027-remove-element) |
 | [0704-binary-search](https://github.com/rohit2647/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohit2647/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -28,6 +29,7 @@ question done on leetcode
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohit2647/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/rohit2647/leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/rohit2647/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/rohit2647/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
