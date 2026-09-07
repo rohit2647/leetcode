@@ -7,6 +7,7 @@ question done on leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohit2647/leetcode/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rohit2647/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/rohit2647/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rohit2647/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -18,6 +19,7 @@ question done on leetcode
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rohit2647/leetcode/tree/master/0027-remove-element) |
+| [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/rohit2647/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohit2647/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -80,4 +82,24 @@ question done on leetcode
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rohit2647/leetcode/tree/master/0234-palindrome-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
