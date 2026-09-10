@@ -19,6 +19,7 @@ question done on leetcode
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rohit2647/leetcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/rohit2647/leetcode/tree/master/0041-first-missing-positive) |
 | [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/rohit2647/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -80,6 +81,7 @@ question done on leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/rohit2647/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/rohit2647/leetcode/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
