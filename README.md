@@ -33,11 +33,13 @@ question done on leetcode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohit2647/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/rohit2647/leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/rohit2647/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/rohit2647/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/rohit2647/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/rohit2647/leetcode/tree/master/0148-sort-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -56,6 +58,7 @@ question done on leetcode
 | [0024-swap-nodes-in-pairs](https://github.com/rohit2647/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rohit2647/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/rohit2647/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/rohit2647/leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/rohit2647/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rohit2647/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rohit2647/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -106,4 +109,12 @@ question done on leetcode
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rohit2647/leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rohit2647/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
