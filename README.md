@@ -130,4 +130,8 @@ question done on leetcode
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/rohit2647/leetcode/tree/master/0321-create-maximum-number) |
+## String
+|  |
+| ------- |
+| [3019-number-of-changing-keys](https://github.com/rohit2647/leetcode/tree/master/3019-number-of-changing-keys) |
 <!---LeetCode Topics End-->
