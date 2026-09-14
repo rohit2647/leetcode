@@ -85,6 +85,7 @@ question done on leetcode
 | ------- |
 | [0041-first-missing-positive](https://github.com/rohit2647/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/rohit2647/leetcode/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/rohit2647/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -133,5 +134,14 @@ question done on leetcode
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rohit2647/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3019-number-of-changing-keys](https://github.com/rohit2647/leetcode/tree/master/3019-number-of-changing-keys) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rohit2647/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rohit2647/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
