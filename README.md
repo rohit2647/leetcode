@@ -20,6 +20,7 @@ question done on leetcode
 | ------- |
 | [0027-remove-element](https://github.com/rohit2647/leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/rohit2647/leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
 | [0321-create-maximum-number](https://github.com/rohit2647/leetcode/tree/master/0321-create-maximum-number) |
 | [0704-binary-search](https://github.com/rohit2647/leetcode/tree/master/0704-binary-search) |
@@ -43,6 +44,7 @@ question done on leetcode
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rohit2647/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -85,6 +87,7 @@ question done on leetcode
 | ------- |
 | [0041-first-missing-positive](https://github.com/rohit2647/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/rohit2647/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohit2647/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -119,6 +122,7 @@ question done on leetcode
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rohit2647/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -143,5 +147,10 @@ question done on leetcode
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohit2647/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
