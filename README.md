@@ -8,6 +8,7 @@ question done on leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohit2647/leetcode/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rohit2647/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/rohit2647/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rohit2647/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -22,6 +23,7 @@ question done on leetcode
 | [0041-first-missing-positive](https://github.com/rohit2647/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [0321-create-maximum-number](https://github.com/rohit2647/leetcode/tree/master/0321-create-maximum-number) |
 | [0704-binary-search](https://github.com/rohit2647/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -45,6 +47,7 @@ question done on leetcode
 | ------- |
 | [0148-sort-list](https://github.com/rohit2647/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -53,6 +56,7 @@ question done on leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/rohit2647/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Linked List
 |  |
@@ -81,6 +85,7 @@ question done on leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rohit2647/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -88,6 +93,7 @@ question done on leetcode
 | [0041-first-missing-positive](https://github.com/rohit2647/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/rohit2647/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohit2647/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
