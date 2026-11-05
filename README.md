@@ -21,6 +21,7 @@ question done on leetcode
 | ------- |
 | [0027-remove-element](https://github.com/rohit2647/leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/rohit2647/leetcode/tree/master/0041-first-missing-positive) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rohit2647/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
@@ -85,6 +86,7 @@ question done on leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rohit2647/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rohit2647/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
