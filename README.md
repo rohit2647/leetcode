@@ -30,6 +30,7 @@ question done on leetcode
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohit2647/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/rohit2647/leetcode/tree/master/1550-three-consecutive-odds) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rohit2647/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rohit2647/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rohit2647/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/rohit2647/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -50,6 +51,7 @@ question done on leetcode
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rohit2647/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -157,6 +159,7 @@ question done on leetcode
 | ------- |
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohit2647/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rohit2647/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
