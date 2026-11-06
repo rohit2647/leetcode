@@ -22,6 +22,7 @@ question done on leetcode
 | [0027-remove-element](https://github.com/rohit2647/leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/rohit2647/leetcode/tree/master/0041-first-missing-positive) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rohit2647/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/rohit2647/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
@@ -48,6 +49,7 @@ question done on leetcode
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rohit2647/leetcode/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/rohit2647/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -164,4 +166,16 @@ question done on leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rohit2647/leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rohit2647/leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rohit2647/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
