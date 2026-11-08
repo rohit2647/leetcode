@@ -27,6 +27,7 @@ question done on leetcode
 | [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [0321-create-maximum-number](https://github.com/rohit2647/leetcode/tree/master/0321-create-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/rohit2647/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/rohit2647/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/rohit2647/leetcode/tree/master/1470-shuffle-the-array) |
