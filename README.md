@@ -29,6 +29,7 @@ question done on leetcode
 | [0321-create-maximum-number](https://github.com/rohit2647/leetcode/tree/master/0321-create-maximum-number) |
 | [0704-binary-search](https://github.com/rohit2647/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/rohit2647/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohit2647/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/rohit2647/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/rohit2647/leetcode/tree/master/1929-concatenation-of-array) |
