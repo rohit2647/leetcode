@@ -31,6 +31,7 @@ question done on leetcode
 | [0485-max-consecutive-ones](https://github.com/rohit2647/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/rohit2647/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/rohit2647/leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/rohit2647/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohit2647/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/rohit2647/leetcode/tree/master/1470-shuffle-the-array) |
@@ -65,6 +66,7 @@ question done on leetcode
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/rohit2647/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rohit2647/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
