@@ -28,6 +28,7 @@ question done on leetcode
 | [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [0321-create-maximum-number](https://github.com/rohit2647/leetcode/tree/master/0321-create-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/rohit2647/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/rohit2647/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/rohit2647/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/rohit2647/leetcode/tree/master/1470-shuffle-the-array) |
@@ -55,6 +56,7 @@ question done on leetcode
 | [0164-maximum-gap](https://github.com/rohit2647/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/rohit2647/leetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rohit2647/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Prefix Sum
@@ -65,6 +67,7 @@ question done on leetcode
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/rohit2647/leetcode/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/rohit2647/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Linked List
 |  |
@@ -104,6 +107,7 @@ question done on leetcode
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohit2647/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/rohit2647/leetcode/tree/master/0645-set-mismatch) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
