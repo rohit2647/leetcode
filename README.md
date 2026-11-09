@@ -31,6 +31,7 @@ question done on leetcode
 | [0645-set-mismatch](https://github.com/rohit2647/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/rohit2647/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohit2647/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/rohit2647/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohit2647/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/rohit2647/leetcode/tree/master/1550-three-consecutive-odds) |
@@ -58,6 +59,7 @@ question done on leetcode
 | [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/rohit2647/leetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohit2647/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rohit2647/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Prefix Sum
 |  |
@@ -108,6 +110,7 @@ question done on leetcode
 | [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohit2647/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/rohit2647/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohit2647/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -189,4 +192,8 @@ question done on leetcode
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/rohit2647/leetcode/tree/master/1929-concatenation-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohit2647/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
