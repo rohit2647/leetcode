@@ -126,6 +126,7 @@ question done on leetcode
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rohit2647/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/rohit2647/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/rohit2647/leetcode/tree/master/0321-create-maximum-number) |
 ## Enumeration
@@ -169,6 +170,7 @@ question done on leetcode
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rohit2647/leetcode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohit2647/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3019-number-of-changing-keys](https://github.com/rohit2647/leetcode/tree/master/3019-number-of-changing-keys) |
 ## Queue
@@ -209,4 +211,8 @@ question done on leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rohit2647/leetcode/tree/master/0053-maximum-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rohit2647/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
