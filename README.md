@@ -27,6 +27,7 @@ question done on leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohit2647/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/rohit2647/leetcode/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/rohit2647/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [0321-create-maximum-number](https://github.com/rohit2647/leetcode/tree/master/0321-create-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohit2647/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -61,6 +62,7 @@ question done on leetcode
 | [0148-sort-list](https://github.com/rohit2647/leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/rohit2647/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rohit2647/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/rohit2647/leetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit2647/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -114,6 +116,7 @@ question done on leetcode
 | [0041-first-missing-positive](https://github.com/rohit2647/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/rohit2647/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rohit2647/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohit2647/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohit2647/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohit2647/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -181,12 +184,14 @@ question done on leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rohit2647/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohit2647/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rohit2647/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rohit2647/leetcode/tree/master/0229-majority-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
