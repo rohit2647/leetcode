@@ -19,6 +19,7 @@ question done on leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohit2647/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/rohit2647/leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/rohit2647/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/rohit2647/leetcode/tree/master/0053-maximum-subarray) |
@@ -113,6 +114,7 @@ question done on leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohit2647/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/rohit2647/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/rohit2647/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/rohit2647/leetcode/tree/master/0169-majority-element) |
